@@ -13,6 +13,7 @@ It takes in PDF files or webpage links as input, users will then be able to sele
 * Keywords
 * Image
 
+
 ![Screenshot](demo.png)
 
 ![Screenshot](demo2.png)
