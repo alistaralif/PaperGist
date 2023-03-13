@@ -14,7 +14,7 @@ It takes in PDF files or webpage links as input, users will then be able to sele
 * Image
 
 
-![Screenshot](demo2.png)
+![Screenshot](demo.png)
 
 ![Screenshot](demo2.png)
 
@@ -34,5 +34,6 @@ Maintaining the functionality of the backend component of the UI was a challenge
 
 ## What's next for PaperGist
 * Conversationalistic AI requests (Giving more specific requests to the program. Eg. Asking it to generate powerpoint slides from the given article)
+
 
 #### PaperGist was created during the 24 hour iNTUition v9.0 hackathon.
