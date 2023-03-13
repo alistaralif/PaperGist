@@ -1,5 +1,8 @@
 # PaperGist
 
+![Screenshot](PaperGist.png)
+
+
 ## Inspiration
 To find an efficient method to convert articles into multimodal formats
 
@@ -9,6 +12,11 @@ It takes in PDF files or webpage links as input, users will then be able to sele
 * Bullet point form
 * Keywords
 * Image
+
+![Screenshot](demo.png)
+
+![Screenshot](demo1.png)
+
 
 ## How we built it
 We incorporated OpenAi's GPT-3 API as well as google_image_search API into a PyQt5 GUI framework
@@ -25,3 +33,5 @@ Maintaining the functionality of the backend component of the UI was a challenge
 
 ## What's next for PaperGist
 * Conversationalistic AI requests (Giving more specific requests to the program. Eg. Asking it to generate powerpoint slides from the given article)
+
+#### PaperGist was created during the 24 hour iNTUition v9.0 hackathon.
